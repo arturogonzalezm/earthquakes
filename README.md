@@ -11,7 +11,7 @@ Read the JSON file/URL and return the place and magnitude of earthquakes greater
 
 **Approach 1:**
 
-- In your command line type:
+- On your terminal type:
 ```commandline
 python read_json_file_pyspark.py
 ```
