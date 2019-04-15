@@ -1,5 +1,6 @@
 # Earthquakes #
 
+
 > ### Instructions:
 Read the JSON file/URL and return the place and magnitude of earthquakes greater than 1.0 using Python.
 
@@ -9,10 +10,17 @@ Read the JSON file/URL and return the place and magnitude of earthquakes greater
 - Apache Spark 2.3.1 (running locally on macOS Mojave)
 
 **Approach 1:**
+
+- In your command line type:
 ```commandline
-read_json_file_pyspark.py
+python read_json_file_pyspark.py
 ```
 ![approach_1](https://github.com/arturosolutions/earthquakes/blob/master/images/approach_1.png)
+
+
+
+
+
 
 ----
 
