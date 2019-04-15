@@ -18,7 +18,14 @@ python read_json_file_pyspark.py
 - read_json_file_pyspark.py explained:
 ![approach_1](https://github.com/arturosolutions/earthquakes/blob/master/images/approach_1.png)
 
+**Approach 2:**
 
+- On your terminal type:
+```commandline
+python read_json_url_pyspark.py
+```
+- read_json_url_pyspark.py explained:
+![approach_2](https://github.com/arturosolutions/earthquakes/blob/master/images/approach_2.png)
 
 
 
