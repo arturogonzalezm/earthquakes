@@ -15,7 +15,7 @@ Read the JSON file/URL and return the place and magnitude of earthquakes greater
 ```commandline
 python read_json_file_pyspark.py
 ```
-- This is what read_json_file_pyspark.py is doing:
+- read_json_file_pyspark.py explained:
 ![approach_1](https://github.com/arturosolutions/earthquakes/blob/master/images/approach_1.png)
 
 
