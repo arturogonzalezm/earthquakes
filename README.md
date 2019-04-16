@@ -27,7 +27,14 @@ python read_json_url_pyspark.py
 - read_json_url_pyspark.py explained:
 ![approach_2](https://github.com/arturosolutions/earthquakes/blob/master/images/approach_2.png)
 
+**Approach 3:**
 
+- On your terminal type:
+```commandline
+python read_json_url_requests.py
+```
+- read_json_url_requests.py explained:
+![approach_3](https://github.com/arturosolutions/earthquakes/blob/master/images/approach_3.png)
 
 
 ----
