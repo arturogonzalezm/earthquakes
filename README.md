@@ -36,6 +36,14 @@ python read_json_url_requests.py
 - read_json_url_requests.py explained:
 ![approach_3](https://github.com/arturosolutions/earthquakes/blob/master/images/approach_3.png)
 
+**Approach 4:**
+
+- On your terminal type:
+```commandline
+python read_json_url_pandas.py
+```
+- read_json_url_pandas.py explained:
+![approach_4](https://github.com/arturosolutions/earthquakes/blob/master/images/approach_4.png)
 
 ----
 
