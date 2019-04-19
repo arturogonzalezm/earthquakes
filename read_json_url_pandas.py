@@ -5,7 +5,7 @@ import json
 
 def main():
     """
-    :return: List of places and magnitudes.
+    :return: List of places and magnitudes, where magnitude is greater than 1.0.
     """
     url = 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson'
     response = requests.get(url)
@@ -14,7 +14,8 @@ def main():
     for f in features['properties']:
         magnitude = f['mag']
         place = f['place']
-        print(place, '|', magnitude)
+        if magnitude > 1.0:
+            print(place, '|', magnitude)
 
 
 if __name__ == "__main__":
